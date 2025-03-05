@@ -2,7 +2,7 @@
 
 This is a collection of my Arduino projects .
 
-Note : You may need to change the extention of cpp files or remove some headers if you will use Arduino IDE .
+Note : You may need to change the extension of cpp files or remove some headers if you will use Arduino IDE .
 ## Projects
 
 ### [SmartGarage](../master/SmartGarage)
