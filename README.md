@@ -3,13 +3,13 @@
 This is a collection of my Arduino projects .
 ## Projects
 
-### [SmartGarage](../master/guitar)
+### [SmartGarage](../master/SmartGarage)
 
 * *Project type: Arduino IDE (.ino)*
 
 Simple Smart Garage system using smart light system , UltraSonic sensor and LCD to display the status of the system
 
-### [Motor Control](../master/guitar)
+### [Motor Control](../master/MotorControl)
 
 * *Project type: Arduino IDE (.ino)*
 
