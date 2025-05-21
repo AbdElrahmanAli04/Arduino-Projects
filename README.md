@@ -17,7 +17,7 @@ Simple Smart Garage system using smart light system , UltraSonic sensor and LCD 
 
 Controling speed & diriction using potentiometer and L293D IC   
 
-### [DMM (Degital Multi Meter](../master/DMM (Degital Multi Meter))
+### [DMM (Degital Multi Meter)](DMM (Degital Multi Meter))
 
 * *Project type: Arduino IDE (.cpp)*
 
